@@ -111,6 +111,17 @@ li:nth-child(even) {
     background-color: #A1E681;
     list-style-type: square;
 }
+a:visited {
+    color: #800080; 
+}
+
+input:focus {
+    border: 2px solid #FFA500; 
+}
+
+ul li:first-child {
+    font-weight: bold; 
+}
 
 strong:hover {
     background-color: #D988CB;
