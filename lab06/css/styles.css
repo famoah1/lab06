@@ -7,7 +7,7 @@ body {
 header {
     background-color: #B5F0DC;
     color: #000000;
-    font-family: sans-serif;
+    font-family: monospace;
     text-align: center;
     padding: 20px 0;
     border-bottom: 2px solid #006633;
@@ -241,5 +241,5 @@ section {
 }
 
 .childhood-paragraph {
-    margin-top: 40px; /* You can adjust the value to control how much you want to move it down */
+    margin-top: 40px; 
 }
